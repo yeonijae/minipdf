@@ -1,5 +1,5 @@
 minipdf — 무료 사용 안내
-개발자: Realhani.com
+개발자: realhani.com
 
 minipdf는 무료로 배포하며 무료로 사용할 수 있습니다.
 minipdf 자체 애플리케이션 소스 코드는 공개하지 않습니다.
